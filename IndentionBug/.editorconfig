@@ -1,0 +1,10 @@
+# Top-most EditorConfig file
+root = true
+
+[*.*]
+indent_style = space:error
+
+[*.cs]
+indent_size = 4:error
+
+dotnet_diagnostic.IDE0055.severity = error
