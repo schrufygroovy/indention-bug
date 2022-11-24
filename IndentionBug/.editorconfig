@@ -2,9 +2,9 @@
 root = true
 
 [*.*]
-indent_style = space:error
+indent_style = space
 
 [*.cs]
-indent_size = 4:error
+indent_size = 4
 
 dotnet_diagnostic.IDE0055.severity = error
